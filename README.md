@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31593863/README.md)
+
 <div align="center">
 
 # 到来K · DLK
