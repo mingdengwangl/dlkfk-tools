@@ -1,0 +1,113 @@
+==================================================
+  GitHub 项目页 上传步骤（全程网页操作，不用装软件）
+==================================================
+
+准备好的文件（就在这个文件夹里）：
+  README.md    ← 仓库首页显示的内容
+  index.html   ← GitHub Pages 网页版
+
+
+【第1步】注册 / 登录 GitHub
+  https://github.com
+  没账号就注册，用邮箱即可，免费。
+
+
+【第2步】新建仓库
+  1. 右上角 "+" → New repository
+  2. Repository name 填：dlkfk-tools
+     （也可以叫 dlk-marketing-tools，英文小写+连字符）
+  3. Description 填：
+     抖音·小红书·B站·快手 全平台AI引流获客工具 | DLK Marketing Automation
+  4. 选 Public（必须公开，不然搜索引擎爬不到）
+  5. 勾上 "Add a README file"
+  6. 点 Create repository
+
+
+【第3步】替换 README 内容
+  1. 进仓库，点 README.md
+  2. 点右上角铅笔图标（Edit this file）
+  3. 全选删除里面的内容
+  4. 用记事本打开本文件夹的 README.md，全选复制，粘贴进去
+  5. 拉到底，点 Commit changes
+
+
+【第4步】上传 index.html
+  1. 回到仓库首页，点 Add file → Upload files
+  2. 把本文件夹的 index.html 拖进去
+  3. 点 Commit changes
+
+
+【第5步】开启 GitHub Pages（这步是关键）
+  1. 仓库页面点 Settings（齿轮图标）
+  2. 左侧菜单找 Pages
+  3. Source 选 "Deploy from a branch"
+  4. Branch 选 main，文件夹选 / (root)
+  5. 点 Save
+  6. 等 1-3 分钟，页面顶部会显示网址，格式是：
+     https://你的用户名.github.io/dlkfk-tools/
+
+
+【第6步】填仓库信息（提升权重）
+  回到仓库首页，右侧 About 区域点齿轮：
+  1. Website 填：https://www.dlkfk.cn
+  2. Topics 填这些标签（一个一个输入后按回车）：
+     douyin
+     xiaohongshu
+     bilibili
+     kuaishou
+     marketing-automation
+     lead-generation
+     social-media-tools
+     引流工具
+  3. 点 Save changes
+
+
+【第7步】告诉我网址
+  把第5步得到的 github.io 网址发给我，我会：
+  - 加到你网站的 sitemap
+  - 推送给 Google 和 Bing
+  - 在你网站上做一条反向链接（互链效果更好）
+
+
+==================================================
+  为什么这么做有用
+==================================================
+
+GitHub 的域名权重极高（Google 认为它可信）。
+你的 github.io 页面里有 15+ 条指向 dlkfk.cn 的链接，
+Google 会把这些当作"高质量网站推荐了 dlkfk.cn"，
+这正是 Bing 报告里说的"入站链接不足"缺的东西。
+
+另外 github.io 页面本身也会被 Google 收录，
+搜"抖音截流工具"这类词时可能直接出现，多一个入口。
+
+
+==================================================
+  下一步还能做的外链（按性价比排序）
+==================================================
+
+1. YouTube 频道简介
+   你已经有频道 @mingdkj-i8j
+   在"关于"页面的链接区放上 www.dlkfk.cn
+   YouTube 权重比 GitHub 还高
+
+2. 知乎 / 小红书 / B站 个人主页
+   主页简介里放官网链接
+   这些平台本身权重极高
+
+3. 海外华人论坛（针对你的目标客户）
+   - 北美华人网 huaren.us
+   - 加拿大家园 canadameet.com
+   - 澳洲新闻网论坛 news.com.au 相关板块
+   在讨论抖音小红书运营的帖子里自然提及并带链接
+   注意：别硬广，会被删帖
+
+4. 工具目录站
+   - AlternativeTo.net
+   - Product Hunt
+   - SaaSHub
+   提交你的工具，填官网链接
+
+5. 自己的其他域名
+   你名下还有 jiayouzhan.shop、yydsym.com
+   如果那些站还在运营，可以做交叉链接
