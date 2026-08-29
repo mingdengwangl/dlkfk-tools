@@ -1,96 +1,131 @@
-[README.md](https://github.com/user-attachments/files/31590341/README.md)
-# 到来K (DLK) — 全平台 AI 引流获客工具
+[README.md](https://github.com/user-attachments/files/31593512/README.md)
+<div align="center">
 
-> 抖音 · 小红书 · B站 · 快手 四大平台自动化精准获客解决方案
-> 正版授权 · 永久更新 · 7×24 技术支持
+# 到来K · DLK
 
-**官方网站** → [https://www.dlkfk.cn](https://www.dlkfk.cn)
+### 抖音 · 小红书 · B站 · 快手 全平台 AI 引流获客工具
+
+[![官方网站](https://img.shields.io/badge/官方网站-www.dlkfk.cn-6366f1?style=for-the-badge)](https://www.dlkfk.cn)
+[![产品中心](https://img.shields.io/badge/产品中心-9款工具-22c55e?style=for-the-badge)](https://www.dlkfk.cn/product)
+[![使用教程](https://img.shields.io/badge/使用教程-45篇实操-f59e0b?style=for-the-badge)](https://www.dlkfk.cn/news)
+[![视频教程](https://img.shields.io/badge/视频教程-YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mingdkj-i8j)
+[![联系QQ](https://img.shields.io/badge/联系QQ-3639780070-12b7f5?style=for-the-badge&logo=tencentqq&logoColor=white)](https://wpa.qq.com/msgrd?v=3&uin=3639780070&site=qq&menu=yes)
+
+**正版授权 · 永久更新 · 7×24 技术支持 · 海外可用**
+
+**售前咨询 / 技术支持 QQ：3639780070**
+
+</div>
 
 ---
 
-## 这是什么
+## 解决什么问题
 
-到来K 是一套面向内容创作者和营销团队的**多平台自动化获客工具集**，解决三个核心问题：
+做短视频获客的人都卡在同样三件事上：
 
-| 痛点 | 解决方式 |
-|---|---|
-| 精准客户找不到 | 评论区采集、直播间采集、关键词监控 |
-| 触达效率太低 | 批量私信、自动回复、多账号群控 |
-| 内容产出跟不上 | AI 改写、矩阵克隆、批量发布 |
+| 卡点 | 传统做法 | 用工具之后 |
+|:---|:---|:---|
+| **精准客户找不到** | 手动翻评论、盯直播间 | 评论区批量采集 · 直播间实时抓取 · 关键词监控 |
+| **触达效率太低** | 一个个手动私信 | 多账号批量私信 · 自动回复 · 话术轮换 |
+| **内容产出跟不上** | 逐条剪辑发布 | AI 改写去重 · 矩阵克隆 · 定时批量发布 |
+| **账号总被封** | 凭感觉操作 | 指纹环境隔离 · 独立 IP · 频率风控 |
 
-适用场景：短视频获客、私域流量沉淀、多账号矩阵运营、跨境电商引流。
+适用场景：短视频获客 · 私域流量沉淀 · 多账号矩阵运营 · 跨境电商引流 · 海外华人市场
 
 ---
 
 ## 工具清单
 
-### 抖音系列
+<table>
+<tr><th width="34%">工具</th><th>核心能力</th><th width="12%">价格</th></tr>
 
-| 工具 | 核心能力 |
-|---|---|
-| [抖音综合引流工具](https://www.dlkfk.cn/product/8) | 评论区采集截留 · 直播间采集 · 监控新评论 · 截留养号 |
-| [抖音群控私信系统](https://www.dlkfk.cn/product/7) | 多账号批量私信 · 话术轮换 · 关注点赞收藏 |
-| [抖音 AI 矩阵克隆](https://www.dlkfk.cn/product/6) | AI 一键改写 · 视频图文批量克隆 · 指纹防封环境 |
-| [抖音评论区自动私信](https://www.dlkfk.cn/product/22) | 自动回复评论 · 自动抢首评 · 关键词触发 |
-
-### 小红书系列
-
-| 工具 | 核心能力 |
-|---|---|
-| [小红书综合引流工具](https://www.dlkfk.cn/product/5) | 笔记采集 · 评论监控 · 智能互动 · 截留养号 |
-| [小红书 AI 图文创作](https://www.dlkfk.cn/product/4) | 100% 过检测 · 电脑创作手机扫码发布 · 文生图 |
-| [小红书 AI 矩阵克隆](https://www.dlkfk.cn/product/3) | 笔记批量克隆 · AI 改写去重 · 指纹防封 |
-
-### B站 / 快手
-
-| 工具 | 核心能力 |
-|---|---|
-| [B站综合引流获客工具](https://www.dlkfk.cn/product/2) | 弹幕采集截留 · 私信触达 · 投币养号 |
-| [快手综合引流工具](https://www.dlkfk.cn/product/1) | 评论区采集 · 直播间采集 · 同城获客 · 截留养号 |
-
----
-
-## 技术特性
-
-- **指纹隔离** — 每账号独立浏览器指纹 + IP 环境，降低关联封号风险
-- **频率风控** — 拟人化操作间隔，避免触发平台限流
-- **AI 内容处理** — 改写去重、原创度检测、批量文生图
-- **数据看板** — 采集量、触达量、转化漏斗可视化
+<tr><td colspan="3"><b>抖音系列</b></td></tr>
+<tr>
+  <td><a href="https://www.dlkfk.cn/product/8">抖音综合引流工具</a></td>
+  <td>评论区采集截留 · 直播间采集 · 监控新评论 · 截留养号</td>
+  <td>￥258</td>
+</tr>
+<tr>
+  <td><a href="https://www.dlkfk.cn/product/7">抖音群控私信系统</a></td>
+  <td>多账号批量私信 · 关注点赞收藏 · 话术轮换 · 数据统计</td>
+  <td>￥258</td>
+</tr>
+<tr>
+  <td><a href="https://www.dlkfk.cn/product/6">抖音 AI 矩阵克隆</a></td>
+  <td>AI 一键改写 · 视频图文批量克隆 · 指纹防封环境</td>
+  <td>￥238</td>
+</tr>
+<tr>
+  <td><a href="https://www.dlkfk.cn/pro
+...[2010 chars omitted]...
+com/@mingdkj-i8j)
 
 ---
 
 ## 常见问题
 
-**海外能用吗？**
-可以。工具支持独立 IP 配置，北美、欧洲、澳洲、东南亚均有用户在使用。详见 [使用文档](https://www.dlkfk.cn/news)。
+<details>
+<summary><b>海外能用吗？</b></summary>
 
-**会封号吗？**
-工具内置频率控制和指纹隔离。按推荐参数使用，配合正常养号流程，风险可控。具体设置参考 [矩阵账号防封指南](https://www.dlkfk.cn/article/39)。
+可以。工具支持独立 IP 配置和时区适配，北美、欧洲、澳洲、东南亚均有用户在使用。
+针对海外华人运营者的场景（跨时区发布、地域筛选、多账号隔离）都做了适配。
+</details>
 
-**怎么购买？**
-访问 [产品中心](https://www.dlkfk.cn/product) 选择对应工具，支持在线下单、自动发货。
+<details>
+<summary><b>会封号吗？</b></summary>
+
+工具内置频率控制和指纹环境隔离。按推荐参数使用、配合正常养号流程，风险可控。
+具体参数设置参考 [矩阵账号防封指南](https://www.dlkfk.cn/article/39)。
+</details>
+
+<details>
+<summary><b>需要什么配置？</b></summary>
+
+Windows 系统，4GB 内存起。多账号矩阵建议 8GB 以上。
+不需要服务器，本地运行即可。
+</details>
+
+<details>
+<summary><b>怎么购买和交付？</b></summary>
+
+访问 [产品中心](https://www.dlkfk.cn/product) 在线下单，支付后自动发货。
+提供正版授权码，永久更新，7×24 技术支持。
+</details>
+
+<details>
+<summary><b>有试用吗？</b></summary>
+
+联系客服可申请功能演示。详见 [官网](https://www.dlkfk.cn)。
+</details>
 
 ---
 
-## 实操教程
+## 联系我们
 
-- [抖音评论区采集实战](https://www.dlkfk.cn/article/1)
-- [抖音批量私信实操教程](https://www.dlkfk.cn/article/3)
-- [抖音矩阵养号全流程](https://www.dlkfk.cn/article/4)
-- [小红书 AI 图文创作实操](https://www.dlkfk.cn/article/31)
-- [B站弹幕引流方案](https://www.dlkfk.cn/article/11)
-- [更多教程 →](https://www.dlkfk.cn/news)
+| 方式 | 地址 |
+|:---|:---|
+| **QQ 咨询** | **3639780070**（售前咨询 · 技术支持 · 售后服务） |
+| 官方网站 | [www.dlkfk.cn](https://www.dlkfk.cn) |
+| 产品中心 | [www.dlkfk.cn/product](https://www.dlkfk.cn/product) |
+| 使用文档 | [www.dlkfk.cn/news](https://www.dlkfk.cn/news) |
+| 视频教程 | [YouTube @mingdkj-i8j](https://www.youtube.com/@mingdkj-i8j) |
+| 在线演示 | [GitHub Pages](https://mingdengwangl.github.io/dlkfk-tools/) |
 
----
-
-## 联系方式
-
-- 官网：[www.dlkfk.cn](https://www.dlkfk.cn)
-- 视频教程：[YouTube 频道](https://www.youtube.com/@mingdkj-i8j)
-- 技术支持：7×24 小时在线
+工作时间：7×24 小时在线，海外时区同样支持。
 
 ---
 
-## 声明
+<div align="center">
 
-本项目为产品介绍页，工具本身为商业软件，需正版授权后使用。请遵守各平台服务条款及所在地区法律法规，仅用于合规的营销推广场景。
+**到来K (DLK)** — 全平台 AI 引流获客系统
+
+**联系 QQ：3639780070**
+
+[官网](https://www.dlkfk.cn) · [产品](https://www.dlkfk.cn/product) · [教程](https://www.dlkfk.cn/news) · [视频](https://www.youtube.com/@mingdkj-i8j)
+
+</div>
+
+---
+
+> **声明**：本项目为产品介绍页。工具为商业软件，需正版授权后使用。
+> 请遵守各平台服务条款及所在地区法律法规，仅用于合规的营销推广场景。
